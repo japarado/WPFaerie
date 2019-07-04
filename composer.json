@@ -1,0 +1,17 @@
+{
+    "name": "pam/wp-faerie",
+    "description": "Models for the WordPress schema extending the Faerie wrapper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jparado",
+            "email": "fishbonesandzap@gmail.com"
+        }
+    ],
+    "require": {
+        "pam/faerie": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    }
+}
